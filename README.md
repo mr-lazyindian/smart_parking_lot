@@ -1,9 +1,10 @@
 # smart_parking_lot
 Hello,
-Smart parking lot
+
 Add your ThingSpeak write key in key variable to link your ThingSpeak account.
 You need an active internet connection to update data in ThinSpeak account.
 Do check indentation errors.
+
 Used sensors are:
 Passive IR sensor : 4
 Ultrasonic sensor : 1
