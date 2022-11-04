@@ -13,9 +13,11 @@ LED : 6
 
 You may include LCD module, if you wish to include.
 if you have any doubt regarding this project you may contact the email address mentioned below.
+
 bhargavindian@outlook.com
 
 Regards,
+
 Bhargav Sai.
 
 
