@@ -23,6 +23,9 @@ a=p.input(18)
 b=p.input(19)
 c=p.input(25)
 d=p.input(21)
+print("Welcome to Parking lot")
+print("You can see lot vacancies with this link (your thingspeak channel link)")
+print("We need some details to get you there, hope you co-operates with us :)")
 n=int(input("Enter type of vehicle (Only allowed vehicles are 2,3 and 4 wheeler only): "))
 if(n==2):
     if(a==1):
