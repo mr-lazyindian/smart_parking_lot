@@ -127,15 +127,15 @@ while True:
     else:
         p.output(31,p.LOW)
     if(b==1):
-        p.output(31,p.HIGH)
+        p.output(26,p.HIGH)
     else:
-        p.output(31,p.LOW)
+        p.output(26,p.LOW)
     if(c==1):
-        p.output(31,p.HIGH)
+        p.output(33,p.HIGH)
     else:
-        p.output(31,p.LOW)
+        p.output(33,p.LOW)
     if(d==1):
-        p.output(31,p.HIGH)
+        p.output(35,p.HIGH)
     else:
-        p.output(31,p.LOW)
+        p.output(35,p.LOW)
 
