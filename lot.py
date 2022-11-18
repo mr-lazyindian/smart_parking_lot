@@ -18,7 +18,7 @@ p.setup(26,p.OUT)#IR-LED3
 p.setup(17,p.OUT)#IR-LED4
 p.setup(8,p.OUT)#SERVO-LED
 p.setup(22,p.OUT)#USC-LED
-servo=Servo(29)
+servo=Servo(20)
 a=p.input(18)
 b=p.input(19)
 c=p.input(27)
