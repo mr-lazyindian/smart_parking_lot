@@ -14,7 +14,7 @@ Ultrasonic sensor : 1,
 Servo : 1,
 LED : 6.
 
-You may include LCD module, if you wish to include.
+You may include LCD module, if you wish to.
 if you have any doubt regarding this project you may contact the email address mentioned below.
 
 bhargavindian@outlook.com
