@@ -32,7 +32,7 @@ if(n==2):
         print("Sorry, not enough space to park :(")
     else:
         print("Note: Format is vehicle No - Vehicle type(2,3,4)")
-        in1=str(input("Enter vehicle details separated by '-'(AB00AB0000-2): "))
+        in1=str(input("Enter vehicle details separated by '-'(AB00AB0000-Driver Name- Mobile no): "))
         f = open("2wheeler_det.txt", "a")
         f.write("\n"+in1)
         f.close()
@@ -46,7 +46,7 @@ elif(n==3):
         print("Sorry, not enough space to park :(")
     else:
         print("Note: Format is vehicle No - Vehicle type(2,3,4)")
-        in2=str(input("Enter vehicle details separated by '-'(AB00AB0000-2): "))
+        in2=str(input("Enter vehicle details separated by '-'(AB00AB0000-Driver Name-Mobile No): "))
         f = open("3wheeler_det.txt", "a")
         f.write("\n"+in2)
         f.close()
@@ -62,7 +62,7 @@ elif(n==4):
             print("Sorry, not enough space in parking lot")
         else:
             print("Note: Format is vehicle No - Vehicle type(2,3,4)")
-            in3=str(input("Enter vehicle details separated by '-'(AB00AB0000-2)- suv/sedan/hatchback: "))
+            in3=str(input("Enter vehicle details separated by '-'(AB00AB0000-Driver Name- Mobile No)- suv/sedan/hatchback: "))
             f = open("sedan.txt", "a")
             f.write("\n"+in3)
             f.close()
