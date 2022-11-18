@@ -9,7 +9,7 @@ Do check indentation errors.
 
 Used sensors are:
 
-Passive IR sensor : 4,
+Active/Passive IR sensor : 4,
 Ultrasonic sensor : 1,
 Servo : 1,
 LED : 6.
